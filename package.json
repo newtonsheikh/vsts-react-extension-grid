@@ -1,0 +1,11 @@
+{
+    "name": "vsts-react-extension-grid",
+    "version": "1.0.0",
+    "description": "A vsts extension wit react and redux",
+    "main": "webpack.config.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Newton Sheikh",
+    "license": "ISC"
+}
