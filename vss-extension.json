@@ -1,0 +1,12 @@
+{
+    "manifestVersion": 1,
+    "id": "vsts-react-grid",
+    "version": "0.1.0",
+    "name": "vsts grid extension",
+    "description": "",
+    "publisher": "newton",
+    "targets": [{
+        "id": "Microsoft.VisualStudio.Services"
+    }],
+    "icons" : "images/logo.png"
+}
